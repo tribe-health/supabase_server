@@ -1,0 +1,7 @@
+database:
+  dsn: postgres://postgres:postgres@localhost:5432/postgres
+
+server:
+  address: 8080
+  apiAddress: 8081
+  jwksUrl: https://oathkeeper.syracoffee.io/
